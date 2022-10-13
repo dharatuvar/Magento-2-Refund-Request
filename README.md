@@ -1,7 +1,7 @@
 ## Magento 2 Refund Request
 
 No one likes to go through the process of refund, whether it be a customer or the merchant. But it can't be avoided, even in the E-commerce business. For Magento 2 stores, it is necessary for admins to organize an easy refund request process for enhanced customer experience. Meetanshi has developed ***[Magento 2 Refund Request
-]([https://meetanshi.com/magento-2-recent-sales-notification.html](https://meetanshi.com/magento-2-recent-sales-notification.html))*** extension that allows customers to request for refund and helps admin to handle those requests easily!
+]([https://meetanshi.com/magento-2-recent-sales-notification.html](https://meetanshi.com/magento-2-recent-sales-notification.html)*** extension that allows customers to request for refund and helps admin to handle those requests easily!
 
 The Magento 2 Refund Request extension enables a separate refund request form in frontend which can be used by customers to submit a request for a refund without having to log in. The module also enables a backend grid for admin to easily manage those refund requests.
 
